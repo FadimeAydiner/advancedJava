@@ -1,6 +1,6 @@
 package com.threads;
 
-//1.way
+
 class MyTask{
   //burda Thread sınıfı kullanıp 50 ms bekletme yapmamıza rağmen.
     //main metodu çalıştırıp bu sınıfın metodunu çağırdığımızda. main metod bu metodun işini bitirmesini bekler.
@@ -15,6 +15,7 @@ class MyTask{
           System.out.println("Printer 2 is running:"+i);}
   }
 }
+//1.way
 class MyTaskWithThread extends Thread{
     //burda Thread sınıfı extends edildiği için run metodu çağırıldığında bu işi başka bir işlemci alır. böylexce main metot bu metodu belmeden işlerini yapmaya devam eder.
     //en son bu sınıftan gelenleri işler
