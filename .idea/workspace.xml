@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="910dbaf3-4df9-4bb1-9cd7-3c5edc081b43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/threads/BlockQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/CountDownLatch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/InterruptMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/VolatileKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/GenericType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/GenericTypeWithTwoParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenerciInterfaceImp02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenericInterfaceImp01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threads/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threads/Semaphore1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/threads/ThreadPoolExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/threads/CreatingThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/threads/CreatingThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/threads/MultiThreading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/threads/MultiThreading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/threads/MultiThreading02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/threads/MultiThreading02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
