@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="910dbaf3-4df9-4bb1-9cd7-3c5edc081b43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/generics/GenericType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/generics/GenericTypeWithTwoParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenerciInterfaceImp02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/generics/genericInterface/GenericInterfaceImp01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/DeadLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/Semaphore1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/threads/ThreadPoolExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enums/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enums/TransactionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/enums/TransctionTypeConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/bounding/GenericLowerBoundingAndWildCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/bounding/GenericUpperBounding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/genericMethod/GenericMethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
